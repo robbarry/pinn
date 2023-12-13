@@ -1,5 +1,6 @@
 {
-	"repo_list": [{
+	"repo_list": [
+		{
 			"name": "NOOBS",
 			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_3rdparty.json"
 		},
@@ -9,7 +10,7 @@
 		},
 		{
 			"name": "PINN",
-			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_all.json"
+			"url": "https://raw.githubusercontent.com/robbarry/pinn/main/os_all.json"
 		},
 		{
 			"name": "Testing",
@@ -31,6 +32,5 @@
 			"name": "Retropie48",
 			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_retropie48.json"
 		}
-
 	]
 }
